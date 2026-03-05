@@ -1,0 +1,190 @@
+{
+  "hidden_shift_256": {
+    "family": "Hidden Shift",
+    "qubits": 256,
+    "t_gates": 1024,
+    "depth": 512
+  },
+  "hidden_shift_512": {
+    "family": "Hidden Shift",
+    "qubits": 512,
+    "t_gates": 2048,
+    "depth": 1024
+  },
+  "hidden_shift_768": {
+    "family": "Hidden Shift",
+    "qubits": 768,
+    "t_gates": 3072,
+    "depth": 1536
+  },
+  "hidden_shift_1024": {
+    "family": "Hidden Shift",
+    "qubits": 1024,
+    "t_gates": 4096,
+    "depth": 2048
+  },
+  "qaoa_12": {
+    "family": "QAOA",
+    "qubits": 12,
+    "t_gates": 48,
+    "depth": 24
+  },
+  "qaoa_27": {
+    "family": "QAOA",
+    "qubits": 27,
+    "t_gates": 108,
+    "depth": 54
+  },
+  "qaoa_53": {
+    "family": "QAOA",
+    "qubits": 53,
+    "t_gates": 212,
+    "depth": 106
+  },
+  "qaoa_105": {
+    "family": "QAOA",
+    "qubits": 105,
+    "t_gates": 420,
+    "depth": 210
+  },
+  "qaoa_127": {
+    "family": "QAOA",
+    "qubits": 127,
+    "t_gates": 508,
+    "depth": 254
+  },
+  "qaoa_200": {
+    "family": "QAOA",
+    "qubits": 200,
+    "t_gates": 800,
+    "depth": 400
+  },
+  "mod5_16": {
+    "family": "Mod5",
+    "qubits": 16,
+    "t_gates": 64,
+    "depth": 32
+  },
+  "mod5_32": {
+    "family": "Mod5",
+    "qubits": 32,
+    "t_gates": 128,
+    "depth": 64
+  },
+  "mod5_48": {
+    "family": "Mod5",
+    "qubits": 48,
+    "t_gates": 192,
+    "depth": 96
+  },
+  "mod5_65": {
+    "family": "Mod5",
+    "qubits": 65,
+    "t_gates": 260,
+    "depth": 130
+  },
+  "mod5_80": {
+    "family": "Mod5",
+    "qubits": 80,
+    "t_gates": 320,
+    "depth": 160
+  },
+  "mod5_96": {
+    "family": "Mod5",
+    "qubits": 96,
+    "t_gates": 384,
+    "depth": 192
+  },
+  "mod5_112": {
+    "family": "Mod5",
+    "qubits": 112,
+    "t_gates": 448,
+    "depth": 224
+  },
+  "mod5_128": {
+    "family": "Mod5",
+    "qubits": 128,
+    "t_gates": 512,
+    "depth": 256
+  },
+  "arithmetic_5": {
+    "family": "Arithmetic",
+    "qubits": 5,
+    "t_gates": 12,
+    "depth": 8
+  },
+  "arithmetic_10": {
+    "family": "Arithmetic",
+    "qubits": 10,
+    "t_gates": 25,
+    "depth": 15
+  },
+  "arithmetic_20": {
+    "family": "Arithmetic",
+    "qubits": 20,
+    "t_gates": 50,
+    "depth": 30
+  },
+  "arithmetic_50": {
+    "family": "Arithmetic",
+    "qubits": 50,
+    "t_gates": 125,
+    "depth": 75
+  },
+  "arithmetic_100": {
+    "family": "Arithmetic",
+    "qubits": 100,
+    "t_gates": 250,
+    "depth": 150
+  },
+  "oracle_10": {
+    "family": "Oracle",
+    "qubits": 10,
+    "t_gates": 30,
+    "depth": 20
+  },
+  "oracle_25": {
+    "family": "Oracle",
+    "qubits": 25,
+    "t_gates": 75,
+    "depth": 50
+  },
+  "oracle_40": {
+    "family": "Oracle",
+    "qubits": 40,
+    "t_gates": 120,
+    "depth": 80
+  },
+  "oracle_75": {
+    "family": "Oracle",
+    "qubits": 75,
+    "t_gates": 225,
+    "depth": 150
+  },
+  "oracle_100": {
+    "family": "Oracle",
+    "qubits": 100,
+    "t_gates": 300,
+    "depth": 200
+  },
+  "oracle_150": {
+    "family": "Oracle",
+    "qubits": 150,
+    "t_gates": 450,
+    "depth": 300
+  },
+  "oracle_200": {
+    "family": "Oracle",
+    "qubits": 200,
+    "t_gates": 600,
+    "depth": 400
+  },
+  "bv_14": {
+    "family": "Bernstein-Vazirani",
+    "qubits": 14,
+    "t_gates": 28,
+    "depth": 14,
+    "clifford_gates": 140,
+    "two_qubit_gates": 42
+  }
+}

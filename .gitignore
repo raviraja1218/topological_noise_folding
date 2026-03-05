@@ -1,0 +1,19 @@
+# Large research artifacts
+*.npz
+*.hdf5
+*.pt
+*.tar.gz
+submission_results/
+checkpoints/
+data/processed/
+results/matrix_representations.npz
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv
+
+

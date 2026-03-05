@@ -1,0 +1,9 @@
+{
+  "total_circuits": 81,
+  "avg_tnf_improvement": 21.920752019589393,
+  "avg_tket_improvement": 10.767641700566406,
+  "avg_pyzx_improvement": 15.537287386815338,
+  "tnf_beats_tket": 80,
+  "tnf_beats_tket_pct": 98.76543209876543,
+  "avg_vs_tket": 12.41679163666942
+}

@@ -1,0 +1,2802 @@
+[
+  {
+    "epoch": 1,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.995,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 2,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.99,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 3,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.985,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 4,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.98,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 5,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.975,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 6,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.97,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 7,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.965,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 8,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.96,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 9,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.955,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 10,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.95,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 11,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.945,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 12,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.94,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 13,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.935,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 14,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.9299999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 15,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.925,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 16,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.92,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 17,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.915,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 18,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.91,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 19,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.905,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 20,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.9,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 21,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.895,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 22,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.89,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 23,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.885,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 24,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.88,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 25,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.875,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 26,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.87,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 27,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.865,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 28,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.86,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 29,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.855,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 30,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.85,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 31,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.845,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 32,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.84,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 33,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.835,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 34,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.83,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 35,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.825,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 36,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.8200000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 37,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.815,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 38,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.81,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 39,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.8049999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 40,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.8,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 41,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.795,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 42,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.79,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 43,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.785,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 44,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.78,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 45,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.775,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 46,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.77,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 47,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.765,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 48,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.76,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 49,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.755,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 50,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.75,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 51,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.745,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 52,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.74,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 53,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.735,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 54,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.73,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 55,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.725,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 56,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.72,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 57,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.7150000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 58,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.71,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 59,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.7050000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 60,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.7,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 61,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.6950000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 62,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.69,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 63,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.685,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 64,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.6799999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 65,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.675,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 66,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.6699999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 67,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.665,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 68,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.6599999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 69,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.655,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 70,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.65,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 71,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.645,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 72,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.64,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 73,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.635,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 74,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.63,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 75,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.625,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 76,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.62,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 77,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.615,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 78,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.61,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 79,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.605,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 80,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.6,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 81,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.595,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 82,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5900000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 83,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.585,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 84,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5800000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 85,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.575,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 86,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5700000000000001,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 87,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.565,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 88,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.56,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 89,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5549999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 90,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.55,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 91,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5449999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 92,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.54,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 93,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5349999999999999,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 94,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.53,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 95,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.525,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 96,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.52,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 97,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.515,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 98,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.51,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 99,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.505,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 100,
+    "stage": "Stage 1: Small circuits (5-20 qubits)",
+    "exploration_temp": 0.5,
+    "batch_size": 32,
+    "reward_scale": 1.0
+  },
+  {
+    "epoch": 101,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.8,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 102,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.795959595959596,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 103,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.791919191919192,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 104,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.787878787878788,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 105,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7838383838383839,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 106,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7797979797979798,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 107,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7757575757575759,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 108,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7717171717171718,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 109,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7676767676767677,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 110,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7636363636363637,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 111,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7595959595959596,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 112,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7555555555555555,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 113,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7515151515151516,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 114,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7474747474747475,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 115,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7434343434343434,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 116,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7393939393939394,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 117,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7353535353535354,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 118,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7313131313131314,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 119,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7272727272727273,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 120,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7232323232323233,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 121,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7191919191919193,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 122,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7151515151515152,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 123,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7111111111111111,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 124,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7070707070707072,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 125,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.7030303030303031,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 126,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.698989898989899,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 127,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.694949494949495,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 128,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6909090909090909,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 129,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6868686868686869,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 130,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6828282828282829,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 131,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6787878787878788,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 132,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6747474747474748,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 133,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6707070707070707,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 134,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6666666666666667,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 135,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6626262626262627,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 136,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6585858585858586,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 137,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6545454545454545,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 138,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6505050505050506,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 139,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6464646464646465,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 140,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6424242424242425,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 141,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6383838383838385,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 142,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6343434343434344,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 143,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6303030303030304,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 144,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6262626262626263,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 145,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6222222222222222,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 146,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6181818181818182,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 147,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6141414141414142,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 148,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6101010101010101,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 149,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.6060606060606061,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 150,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.602020202020202,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 151,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.597979797979798,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 152,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.593939393939394,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 153,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5898989898989899,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 154,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5858585858585859,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 155,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5818181818181819,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 156,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5777777777777778,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 157,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5737373737373738,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 158,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5696969696969697,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 159,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5656565656565656,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 160,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5616161616161616,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 161,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5575757575757576,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 162,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5535353535353535,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 163,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5494949494949495,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 164,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5454545454545455,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 165,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5414141414141413,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 166,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5373737373737374,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 167,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5333333333333334,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 168,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5292929292929293,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 169,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5252525252525253,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 170,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5212121212121212,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 171,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5171717171717172,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 172,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5131313131313132,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 173,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5090909090909091,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 174,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.5050505050505051,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 175,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.501010101010101,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 176,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.496969696969697,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 177,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.49292929292929294,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 178,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.48888888888888893,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 179,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.48484848484848486,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 180,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4808080808080808,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 181,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.47676767676767684,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 182,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.47272727272727266,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 183,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4686868686868687,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 184,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.46464646464646475,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 185,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4606060606060606,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 186,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4565656565656566,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 187,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.45252525252525255,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 188,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4484848484848485,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 189,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4444444444444445,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 190,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4404040404040404,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 191,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.43636363636363634,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 192,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4323232323232324,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 193,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4282828282828283,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 194,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.42424242424242425,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 195,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.42020202020202024,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 196,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4161616161616162,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 197,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4121212121212121,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 198,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.40808080808080816,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 199,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.404040404040404,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 200,
+    "stage": "Stage 2: Medium circuits (20-65 qubits)",
+    "exploration_temp": 0.4,
+    "batch_size": 24,
+    "reward_scale": 1.2
+  },
+  {
+    "epoch": 201,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.6,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 202,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5969696969696969,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 203,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.593939393939394,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 204,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5909090909090909,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 205,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5878787878787879,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 206,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5848484848484848,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 207,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5818181818181818,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 208,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5787878787878787,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 209,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5757575757575757,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 210,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5727272727272728,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 211,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5696969696969697,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 212,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5666666666666667,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 213,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5636363636363636,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 214,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5606060606060606,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 215,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5575757575757575,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 216,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5545454545454545,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 217,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5515151515151515,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 218,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5484848484848485,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 219,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5454545454545454,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 220,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5424242424242425,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 221,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5393939393939394,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 222,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5363636363636364,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 223,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5333333333333333,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 224,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5303030303030303,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 225,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5272727272727272,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 226,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5242424242424242,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 227,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5212121212121212,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 228,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5181818181818182,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 229,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5151515151515151,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 230,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5121212121212121,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 231,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.509090909090909,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 232,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.506060606060606,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 233,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5030303030303029,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 234,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.5,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 235,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.49696969696969695,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 236,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4939393939393939,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 237,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.49090909090909085,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 238,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.48787878787878786,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 239,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4848484848484848,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 240,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.48181818181818176,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 241,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.47878787878787876,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 242,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4757575757575757,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 243,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.47272727272727266,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 244,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4696969696969697,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 245,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4666666666666667,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 246,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4636363636363636,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 247,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.46060606060606063,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 248,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4575757575757576,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 249,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.45454545454545453,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 250,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4515151515151515,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 251,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.44848484848484843,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 252,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.44545454545454544,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 253,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4424242424242424,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 254,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.43939393939393934,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 255,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.43636363636363634,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 256,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4333333333333333,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 257,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.43030303030303024,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 258,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4272727272727273,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 259,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.42424242424242425,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 260,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4212121212121212,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 261,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4181818181818182,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 262,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.41515151515151516,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 263,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4121212121212121,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 264,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4090909090909091,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 265,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.406060606060606,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 266,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.403030303030303,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 267,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.4,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 268,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3969696969696969,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 269,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3939393939393939,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 270,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3909090909090909,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 271,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3878787878787878,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 272,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.38484848484848483,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 273,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3818181818181818,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 274,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.37878787878787873,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 275,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3757575757575758,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 276,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.37272727272727274,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 277,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3696969696969697,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 278,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3666666666666667,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 279,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.36363636363636365,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 280,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3606060606060606,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 281,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3575757575757576,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 282,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3545454545454545,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 283,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3515151515151515,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 284,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3484848484848485,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 285,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3454545454545454,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 286,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3424242424242424,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 287,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.33939393939393936,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 288,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3363636363636363,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 289,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3333333333333333,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 290,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.33030303030303027,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 291,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3272727272727272,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 292,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3242424242424243,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 293,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3212121212121212,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 294,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3181818181818182,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 295,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3151515151515152,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 296,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.31212121212121213,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 297,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3090909090909091,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 298,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3060606060606061,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 299,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.303030303030303,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 300,
+    "stage": "Stage 3: Large circuits (65-127 qubits)",
+    "exploration_temp": 0.3,
+    "batch_size": 16,
+    "reward_scale": 1.5
+  },
+  {
+    "epoch": 301,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.4,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 302,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.397979797979798,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 303,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.395959595959596,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 304,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.393939393939394,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 305,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.39191919191919194,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 306,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3898989898989899,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 307,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.38787878787878793,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 308,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3858585858585859,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 309,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.38383838383838387,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 310,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.38181818181818183,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 311,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3797979797979798,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 312,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.37777777777777777,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 313,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3757575757575758,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 314,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.37373737373737376,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 315,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3717171717171717,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 316,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3696969696969697,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 317,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3676767676767677,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 318,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3656565656565657,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 319,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.36363636363636365,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 320,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.36161616161616167,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 321,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.35959595959595964,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 322,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3575757575757576,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 323,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.35555555555555557,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 324,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3535353535353536,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 325,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.35151515151515156,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 326,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3494949494949495,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 327,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3474747474747475,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 328,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.34545454545454546,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 329,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3434343434343434,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 330,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.34141414141414145,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 331,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3393939393939394,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 332,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3373737373737374,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 333,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.33535353535353535,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 334,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.33333333333333337,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 335,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.33131313131313134,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 336,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3292929292929293,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 337,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.32727272727272727,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 338,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3252525252525253,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 339,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.32323232323232326,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 340,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3212121212121212,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 341,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.31919191919191925,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 342,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3171717171717172,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 343,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3151515151515152,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 344,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.31313131313131315,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 345,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3111111111111111,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 346,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3090909090909091,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 347,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.3070707070707071,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 348,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.30505050505050507,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 349,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.30303030303030304,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 350,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.301010101010101,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 351,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.298989898989899,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 352,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.296969696969697,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 353,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.29494949494949496,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 354,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.29292929292929293,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 355,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.29090909090909095,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 356,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2888888888888889,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 357,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2868686868686869,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 358,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.28484848484848485,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 359,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2828282828282828,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 360,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2808080808080808,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 361,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2787878787878788,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 362,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2767676767676768,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 363,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.27474747474747474,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 364,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.27272727272727276,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 365,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2707070707070707,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 366,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2686868686868687,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 367,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2666666666666667,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 368,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.26464646464646463,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 369,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.26262626262626265,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 370,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2606060606060606,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 371,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2585858585858586,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 372,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2565656565656566,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 373,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2545454545454546,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 374,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.25252525252525254,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 375,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2505050505050505,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 376,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2484848484848485,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 377,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.24646464646464647,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 378,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.24444444444444446,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 379,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.24242424242424243,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 380,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2404040404040404,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 381,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.23838383838383842,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 382,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.23636363636363633,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 383,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.23434343434343435,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 384,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.23232323232323238,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 385,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2303030303030303,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 386,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2282828282828283,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 387,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.22626262626262628,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 388,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.22424242424242424,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 389,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.22222222222222224,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 390,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2202020202020202,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 391,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.21818181818181817,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 392,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2161616161616162,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 393,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.21414141414141416,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 394,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.21212121212121213,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 395,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.21010101010101012,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 396,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2080808080808081,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 397,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.20606060606060606,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 398,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.20404040404040408,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 399,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.202020202020202,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  },
+  {
+    "epoch": 400,
+    "stage": "Stage 4: XL circuits (127-768 qubits)",
+    "exploration_temp": 0.2,
+    "batch_size": 8,
+    "reward_scale": 2.0
+  }
+]

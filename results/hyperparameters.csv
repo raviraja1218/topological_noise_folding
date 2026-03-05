@@ -1,0 +1,2 @@
+in_channels,hidden_channels,out_channels,num_layers,num_heads,dropout,batch_size,learning_rate,weight_decay,epochs,lambda_init,tcount_weight,gamma_weight,val_split,test_split,seed
+32,256,1,8,8,0.1,32,0.0001,1e-05,100,0.1,0.7,0.3,0.2,0.1,42

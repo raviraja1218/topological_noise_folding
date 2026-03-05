@@ -1,0 +1,32 @@
+circuit_name,family,qubits,t_count,two_qubit_gates,depth,graph_nodes,graph_edges,graphml_file
+hidden_shift_256,Hidden Shift,256,1024,768,512,522,266,data/processed/baseline_graphs/hidden_shift_256.graphml
+hidden_shift_512,Hidden Shift,512,2048,1536,1024,1034,522,data/processed/baseline_graphs/hidden_shift_512.graphml
+hidden_shift_768,Hidden Shift,768,3072,2304,1536,1546,778,data/processed/baseline_graphs/hidden_shift_768.graphml
+hidden_shift_1024,Hidden Shift,1024,4096,3072,2048,2058,1034,data/processed/baseline_graphs/hidden_shift_1024.graphml
+qaoa_12,QAOA,12,48,36,24,34,22,data/processed/baseline_graphs/qaoa_12.graphml
+qaoa_27,QAOA,27,108,81,54,64,37,data/processed/baseline_graphs/qaoa_27.graphml
+qaoa_53,QAOA,53,212,159,106,116,63,data/processed/baseline_graphs/qaoa_53.graphml
+qaoa_105,QAOA,105,420,315,210,220,115,data/processed/baseline_graphs/qaoa_105.graphml
+qaoa_127,QAOA,127,508,381,254,264,137,data/processed/baseline_graphs/qaoa_127.graphml
+qaoa_200,QAOA,200,800,600,400,410,210,data/processed/baseline_graphs/qaoa_200.graphml
+mod5_16,Mod5,16,64,48,32,42,26,data/processed/baseline_graphs/mod5_16.graphml
+mod5_32,Mod5,32,128,96,64,74,42,data/processed/baseline_graphs/mod5_32.graphml
+mod5_48,Mod5,48,192,144,96,106,58,data/processed/baseline_graphs/mod5_48.graphml
+mod5_65,Mod5,65,260,195,130,140,75,data/processed/baseline_graphs/mod5_65.graphml
+mod5_80,Mod5,80,320,240,160,170,90,data/processed/baseline_graphs/mod5_80.graphml
+mod5_96,Mod5,96,384,288,192,202,106,data/processed/baseline_graphs/mod5_96.graphml
+mod5_112,Mod5,112,448,336,224,234,122,data/processed/baseline_graphs/mod5_112.graphml
+mod5_128,Mod5,128,512,384,256,266,138,data/processed/baseline_graphs/mod5_128.graphml
+arithmetic_5,Arithmetic,5,12,15,8,20,15,data/processed/baseline_graphs/arithmetic_5.graphml
+arithmetic_10,Arithmetic,10,25,30,15,30,20,data/processed/baseline_graphs/arithmetic_10.graphml
+arithmetic_20,Arithmetic,20,50,60,30,50,30,data/processed/baseline_graphs/arithmetic_20.graphml
+arithmetic_50,Arithmetic,50,125,150,75,110,60,data/processed/baseline_graphs/arithmetic_50.graphml
+arithmetic_100,Arithmetic,100,250,300,150,210,110,data/processed/baseline_graphs/arithmetic_100.graphml
+oracle_10,Oracle,10,30,30,20,30,20,data/processed/baseline_graphs/oracle_10.graphml
+oracle_25,Oracle,25,75,75,50,60,35,data/processed/baseline_graphs/oracle_25.graphml
+oracle_40,Oracle,40,120,120,80,90,50,data/processed/baseline_graphs/oracle_40.graphml
+oracle_75,Oracle,75,225,225,150,160,85,data/processed/baseline_graphs/oracle_75.graphml
+oracle_100,Oracle,100,300,300,200,210,110,data/processed/baseline_graphs/oracle_100.graphml
+oracle_150,Oracle,150,450,450,300,310,160,data/processed/baseline_graphs/oracle_150.graphml
+oracle_200,Oracle,200,600,600,400,410,210,data/processed/baseline_graphs/oracle_200.graphml
+bv_14,Bernstein-Vazirani,14,28,42,14,38,24,data/processed/baseline_graphs/bv_14.graphml

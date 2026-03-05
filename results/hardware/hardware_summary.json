@@ -1,0 +1,9 @@
+{
+  "avg_improvement": 30.077777777777776,
+  "std_improvement": 0.22236106773543918,
+  "max_improvement": 30.3,
+  "min_improvement": 29.7,
+  "circuits_tested": 9,
+  "avg_baseline_error": 0.4980333333333333,
+  "avg_tnf_error": 0.34824444444444447
+}

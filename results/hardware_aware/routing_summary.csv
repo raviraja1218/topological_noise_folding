@@ -1,0 +1,8 @@
+,swap_penalty,swap_penalty,distance_penalty,distance_penalty
+,mean,max,mean,max
+device,,,,
+ibm_brisbane,3.0,4,5.5,8
+ibm_fez,5.5,9,7.5,10
+ibm_kyoto,3.0,4,5.5,8
+ionq_harmony,0.0,0,4.0,6
+rigetti_aspen,5.5,9,7.5,10

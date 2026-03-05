@@ -1,0 +1,2 @@
+num_circuits,avg_agent_tcount,avg_tket_tcount,avg_pyzx_tcount,avg_improvement_vs_tket,avg_improvement_vs_pyzx,circuits_beating_tket,circuits_beating_pyzx,flow_preservation_rate,avg_extraction_time
+31,44.41935483870968,53.645161290322584,57.903225806451616,16.11836818868173,22.814437273969872,26,31,100.0,0.8733771473428044

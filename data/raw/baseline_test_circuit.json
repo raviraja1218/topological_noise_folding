@@ -1,0 +1,131 @@
+{
+  "name": "test_adder_5q",
+  "family": "Arithmetic",
+  "qubits": 5,
+  "gates": [
+    {
+      "type": "H",
+      "qubits": [
+        0
+      ]
+    },
+    {
+      "type": "H",
+      "qubits": [
+        1
+      ]
+    },
+    {
+      "type": "CNOT",
+      "qubits": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "S",
+      "qubits": [
+        1
+      ]
+    },
+    {
+      "type": "CNOT",
+      "qubits": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        0
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        2
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        3
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        4
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        0
+      ]
+    },
+    {
+      "type": "CNOT",
+      "qubits": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        1
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        2
+      ]
+    },
+    {
+      "type": "H",
+      "qubits": [
+        4
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        3
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        4
+      ]
+    },
+    {
+      "type": "CNOT",
+      "qubits": [
+        0,
+        4
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        0
+      ]
+    },
+    {
+      "type": "T",
+      "qubits": [
+        1
+      ]
+    }
+  ],
+  "original_metrics": {
+    "t_count": 12,
+    "clifford_count": 7,
+    "two_qubit_gates": 4,
+    "depth": 19
+  }
+}

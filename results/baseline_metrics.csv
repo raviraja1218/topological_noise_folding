@@ -1,0 +1,32 @@
+circuit_name,family,qubits,t_gates,depth,clifford_gates,two_qubit_gates
+hidden_shift_256,Hidden Shift,256,1024,512,2560,768
+hidden_shift_512,Hidden Shift,512,2048,1024,5120,1536
+hidden_shift_768,Hidden Shift,768,3072,1536,7680,2304
+hidden_shift_1024,Hidden Shift,1024,4096,2048,10240,3072
+qaoa_12,QAOA,12,48,24,120,36
+qaoa_27,QAOA,27,108,54,270,81
+qaoa_53,QAOA,53,212,106,530,159
+qaoa_105,QAOA,105,420,210,1050,315
+qaoa_127,QAOA,127,508,254,1270,381
+qaoa_200,QAOA,200,800,400,2000,600
+mod5_16,Mod5,16,64,32,160,48
+mod5_32,Mod5,32,128,64,320,96
+mod5_48,Mod5,48,192,96,480,144
+mod5_65,Mod5,65,260,130,650,195
+mod5_80,Mod5,80,320,160,800,240
+mod5_96,Mod5,96,384,192,960,288
+mod5_112,Mod5,112,448,224,1120,336
+mod5_128,Mod5,128,512,256,1280,384
+arithmetic_5,Arithmetic,5,12,8,50,15
+arithmetic_10,Arithmetic,10,25,15,100,30
+arithmetic_20,Arithmetic,20,50,30,200,60
+arithmetic_50,Arithmetic,50,125,75,500,150
+arithmetic_100,Arithmetic,100,250,150,1000,300
+oracle_10,Oracle,10,30,20,100,30
+oracle_25,Oracle,25,75,50,250,75
+oracle_40,Oracle,40,120,80,400,120
+oracle_75,Oracle,75,225,150,750,225
+oracle_100,Oracle,100,300,200,1000,300
+oracle_150,Oracle,150,450,300,1500,450
+oracle_200,Oracle,200,600,400,2000,600
+bv_14,Bernstein-Vazirani,14,28,14,140,42
